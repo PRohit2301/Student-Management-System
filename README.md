@@ -1,4 +1,4 @@
-# Student Management System – Secure Role-Based Web Application
+# Student Management System – Secure Role-Based Web Application.
 
 ## Overview
 The **Student Management System** is a production-oriented, role-based web application designed using **Spring Boot** and **Spring Security**.  
